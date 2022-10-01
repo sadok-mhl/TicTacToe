@@ -6,7 +6,6 @@
 
 .background {
     background-color: #605d5e;
-    height: 100vh;
     padding-top: 1px;
 }
 
@@ -14,7 +13,7 @@
     color: white;
     text-align: center;
     font-size: 40px;
-    margin-top: 7%;
+    margin-top: 5%;
 }
 
 .display {
@@ -86,6 +85,6 @@
     color: white;
     text-align: center;
     margin-top: 4rem;
-    padding: 1rem 0;
+    padding: 1.5rem 0;
     border-top: 1px solid white;
  }
